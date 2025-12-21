@@ -1,6 +1,6 @@
 # SnapForms2MailerLite
 
-MailerLite Integration for SnapForms submissions.
+MailerLite Integration for [SnapForm WordPress Plugin](https://snapforms.tech/) submissions.
 
 ## Overview
 This WordPress plugin adds subscribers to MailerLite triggered by SnapForms submission creation events. It supports multiple SnapForms forms, each with its own mapping, consent requirements, and target groups, configured via a JSON file stored outside the plugin directory.
